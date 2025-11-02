@@ -365,50 +365,6 @@
             "key": "EL_SUB0",
             "label": "₀",
         }
-        "ALGR(EL_Q)": {
-            "key": "EL_CIRC",
-            "label": "^",
-        }
-        "ALGR(EL_C)": {
-            "key": "EL_LABK",
-            "label": "<",
-        }
-        "ALGR(EL_O)": {
-            "key": "EL_RABK",
-            "label": ">",
-        }
-        "ALGR(EL_P)": {
-            "key": "EL_DLR",
-            "label": "$",
-        }
-        "ALGR(EL_W)": {
-            "key": "EL_PERC",
-            "label": "%",
-        }
-        "ALGR(EL_J)": {
-            "key": "EL_AT",
-            "label": "@",
-        }
-        "ALGR(EL_M)": {
-            "key": "EL_AMPR",
-            "label": "&",
-        }
-        "ALGR(EL_D)": {
-            "key": "EL_ASTR",
-            "label": "*",
-        }
-        "ALGR(EL_1DK)": {
-            "key": "EL_QUOT",
-            "label": "'",
-        }
-        "ALGR(EL_Y)": {
-            "key": "EL_GRV",
-            "label": "`",
-        }
-        "ALGR(EL_A)": {
-            "key": "EL_LCBR",
-            "label": "{",
-        }
         "ALGR(EL_S)": {
             "key": "EL_LPRN",
             "label": "(",
@@ -416,74 +372,6 @@
         "ALGR(EL_E)": {
             "key": "EL_RPRN",
             "label": ")",
-        }
-        "ALGR(EL_N)": {
-            "key": "EL_RCBR",
-            "label": "}",
-        }
-        "ALGR(EL_F)": {
-            "key": "EL_EQL",
-            "label": "=",
-        }
-        "ALGR(EL_L)": {
-            "key": "EL_BSLS",
-            "label": "\\",
-        }
-        "ALGR(EL_R)": {
-            "key": "EL_PLUS",
-            "label": "+",
-        }
-        "ALGR(EL_T)": {
-            "key": "EL_MINS",
-            "label": "-",
-        }
-        "ALGR(EL_I)": {
-            "key": "EL_SLSH",
-            "label": "/",
-        }
-        "ALGR(EL_U)": {
-            "key": "EL_DQUO",
-            "label": "\"",
-        }
-        "ALGR(EL_Z)": {
-            "key": "EL_TILD",
-            "label": "~",
-        }
-        "ALGR(EL_X)": {
-            "key": "EL_LBRC",
-            "label": "[",
-        }
-        "ALGR(EL_MINS)": {
-            "key": "EL_RBRC",
-            "label": "]",
-        }
-        "ALGR(EL_V)": {
-            "key": "EL_UNDS",
-            "label": "_",
-        }
-        "ALGR(EL_B)": {
-            "key": "EL_HASH",
-            "label": "#",
-        }
-        "ALGR(EL_DOT)": {
-            "key": "EL_PIPE",
-            "label": "|",
-        }
-        "ALGR(EL_H)": {
-            "key": "EL_EXLM",
-            "label": "!",
-        }
-        "ALGR(EL_G)": {
-            "key": "EL_SCLN",
-            "label": ";",
-        }
-        "ALGR(EL_COMM)": {
-            "key": "EL_COLN",
-            "label": ":",
-        }
-        "ALGR(EL_K)": {
-            "key": "EL_QUES",
-            "label": "?",
         }
 
 /* Shift+AltGr symbols
